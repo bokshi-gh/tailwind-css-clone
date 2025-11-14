@@ -1,6 +1,6 @@
 # Tailwind CSS Clone
 
-A lightweight, modular **Tailwind CSS clone** built from scratch.
+A lightweight, modular **[Tailwind CSS](https://tailwindcss.com/) clone** built from scratch.
 
 ## Getting Started
 
