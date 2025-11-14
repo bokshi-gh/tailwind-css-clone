@@ -1,17 +1,17 @@
 /* main.css - central file importing all modular utilities */
 
-@import url("./colors.css");
-@import url("./display.css");
-@import url("./flex.css");
-@import url("./grid.css");
-@import url("./spacing.css");
-@import url("./sizing.css");
-@import url("./typography.css");
-@import url("./borders-and-rounds.css");
-@import url("./shadow-and-opacity.css");
-@import url("./cursor.css");
-@import url("./overflow.css");
-@import url("./position.css");
-@import url("./visibility.css");
-@import url("./z-index.css");
-@import url("./hover-and-focus.css");
+@import url("./modules/colors.css");
+@import url("./modules/display.css");
+@import url("./modules/flex.css");
+@import url("./modules/grid.css");
+@import url("./modules/spacing.css");
+@import url("./modules/sizing.css");
+@import url("./modules/typography.css");
+@import url("./modules/borders-and-rounds.css");
+@import url("./modules/shadow-and-opacity.css");
+@import url("./modules/cursor.css");
+@import url("./modules/overflow.css");
+@import url("./modules/position.css");
+@import url("./modules/visibility.css");
+@import url("./modules/z-index.css");
+@import url("./modules/hover-and-focus.css");
