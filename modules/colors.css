@@ -1,0 +1,37 @@
+/* GRAY */
+.text-gray-50 { color: #F9FAFB; }      .bg-gray-50 { background-color: #F9FAFB; }      .border-gray-50 { border-color: #F9FAFB; }
+.text-gray-100 { color: #F3F4F6; }     .bg-gray-100 { background-color: #F3F4F6; }     .border-gray-100 { border-color: #F3F4F6; }
+.text-gray-200 { color: #E5E7EB; }     .bg-gray-200 { background-color: #E5E7EB; }     .border-gray-200 { border-color: #E5E7EB; }
+.text-gray-300 { color: #D1D5DB; }     .bg-gray-300 { background-color: #D1D5DB; }     .border-gray-300 { border-color: #D1D5DB; }
+.text-gray-400 { color: #9CA3AF; }     .bg-gray-400 { background-color: #9CA3AF; }     .border-gray-400 { border-color: #9CA3AF; }
+.text-gray-500 { color: #6B7280; }     .bg-gray-500 { background-color: #6B7280; }     .border-gray-500 { border-color: #6B7280; }
+.text-gray-600 { color: #4B5563; }     .bg-gray-600 { background-color: #4B5563; }     .border-gray-600 { border-color: #4B5563; }
+.text-gray-700 { color: #374151; }     .bg-gray-700 { background-color: #374151; }     .border-gray-700 { border-color: #374151; }
+.text-gray-800 { color: #1F2937; }     .bg-gray-800 { background-color: #1F2937; }     .border-gray-800 { border-color: #1F2937; }
+.text-gray-900 { color: #111827; }     .bg-gray-900 { background-color: #111827; }     .border-gray-900 { border-color: #111827; }
+
+/* RED */
+.text-red-50 { color: #FEF2F2; }       .bg-red-50 { background-color: #FEF2F2; }       .border-red-50 { border-color: #FEF2F2; }
+.text-red-100 { color: #FEE2E2; }      .bg-red-100 { background-color: #FEE2E2; }      .border-red-100 { border-color: #FEE2E2; }
+.text-red-200 { color: #FECACA; }      .bg-red-200 { background-color: #FECACA; }      .border-red-200 { border-color: #FECACA; }
+.text-red-300 { color: #FCA5A5; }      .bg-red-300 { background-color: #FCA5A5; }      .border-red-300 { border-color: #FCA5A5; }
+.text-red-400 { color: #F87171; }      .bg-red-400 { background-color: #F87171; }      .border-red-400 { border-color: #F87171; }
+.text-red-500 { color: #EF4444; }      .bg-red-500 { background-color: #EF4444; }      .border-red-500 { border-color: #EF4444; }
+.text-red-600 { color: #DC2626; }      .bg-red-600 { background-color: #DC2626; }      .border-red-600 { border-color: #DC2626; }
+.text-red-700 { color: #B91C1C; }      .bg-red-700 { background-color: #B91C1C; }      .border-red-700 { border-color: #B91C1C; }
+.text-red-800 { color: #991B1B; }      .bg-red-800 { background-color: #991B1B; }      .border-red-800 { border-color: #991B1B; }
+.text-red-900 { color: #7F1D1D; }      .bg-red-900 { background-color: #7F1D1D; }      .border-red-900 { border-color: #7F1D1D; }
+
+/* YELLOW */
+.text-yellow-50 { color: #FFFBEB; }    .bg-yellow-50 { background-color: #FFFBEB; }    .border-yellow-50 { border-color: #FFFBEB; }
+.text-yellow-100 { color: #FEF3C7; }   .bg-yellow-100 { background-color: #FEF3C7; }   .border-yellow-100 { border-color: #FEF3C7; }
+.text-yellow-200 { color: #FDE68A; }   .bg-yellow-200 { background-color: #FDE68A; }   .border-yellow-200 { border-color: #FDE68A; }
+.text-yellow-300 { color: #FCD34D; }   .bg-yellow-300 { background-color: #FCD34D; }   .border-yellow-300 { border-color: #FCD34D; }
+.text-yellow-400 { color: #FBBF24; }   .bg-yellow-400 { background-color: #FBBF24; }   .border-yellow-400 { border-color: #FBBF24; }
+.text-yellow-500 { color: #F59E0B; }   .bg-yellow-500 { background-color: #F59E0B; }   .border-yellow-500 { border-color: #F59E0B; }
+.text-yellow-600 { color: #D97706; }   .bg-yellow-600 { background-color: #D97706; }   .border-yellow-600 { border-color: #D97706; }
+.text-yellow-700 { color: #B45309; }   .bg-yellow-700 { background-color: #B45309; }   .border-yellow-700 { border-color: #B45309; }
+.text-yellow-800 { color: #92400E; }   .bg-yellow-800 { background-color: #92400E; }   .border-yellow-800 { border-color: #92400E; }
+.text-yellow-900 { color: #78350F; }   .bg-yellow-900 { background-color: #78350F; }   .border-yellow-900 { border-color: #78350F; }
+
+/* Continue for GREEN, BLUE, INDIGO, PURPLE, PINK, ORANGE, TEAL, BLACK, WHITE */
