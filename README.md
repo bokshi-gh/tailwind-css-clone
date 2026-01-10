@@ -4,6 +4,8 @@ A lightweight, modular **[Tailwind CSS](https://tailwindcss.com/)** clone built 
 
 ## Getting Started
 
+You can use Tailwind CSS Clone in any of the following ways:
+
 1. Link via `<link>`
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bokshi-gh/tailwind-css-clone/main.css">
