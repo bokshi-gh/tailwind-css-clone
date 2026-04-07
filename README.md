@@ -6,21 +6,36 @@ A lightweight, modular **[Tailwind CSS](https://tailwindcss.com/)** clone built 
 
 You can use Tailwind CSS Clone in any of the following ways:
 
-1. Include via `<link>`
-    ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bokshi-gh/tailwind-css-clone/main.css">
-    ```
+### Use via CDN (jsDelivr)
 
-2. Include via CSS `@import`
-    ```css
-    @import url("https://cdn.jsdelivr.net/gh/bokshi-gh/tailwind-css-clone/main.css");
-    ```
+#### HTML `<link>`
 
-3. Clone the Repository and Use Locally
-    ```sh
-    git clone https://github.com/bokshi-gh/tailwind-css-clone.git
-    ```
+ ```html
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bokshi-gh/tailwind-css-clone/main.css">
+ ```
 
-    ```html
-    <link rel="stylesheet" href="tailwind-css-clone/main.css">
-    ```
+#### CSS `@import`
+    
+```css
+@import url("https://cdn.jsdelivr.net/gh/bokshi-gh/tailwind-css-clone/main.css");
+```
+
+### Use Locally
+
+#### Clone the repository
+
+```sh
+git clone https://github.com/bokshi-gh/tailwind-css-clone.git
+```
+
+#### HTML `<link>`
+
+```html
+<link rel="stylesheet" href="./tailwind-css-clone/main.css">
+```
+
+#### CSS `@import`
+    
+```css
+@import url("./tailwind-css-clone/main.css");
+```
